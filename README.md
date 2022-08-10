@@ -44,6 +44,7 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 <br />
 <br />
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1110](https://github.com/bevyengine/bevy/issues/1110) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 2. 🗣 Commented on [#5040](https://github.com/bevyengine/bevy/issues/5040) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
