@@ -1,4 +1,7 @@
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)  [![HitCount](https://hits.dwyl.com/hellzbellz123/hellzbellz123.svg?style=flat-square)](http://hits.dwyl.com/hellzbellz123/hellzbellz123) <p align="center">hi, I'm Hellzbellz. I make <a href="https://hellzbellz123.github.io/">stuff</a> sometimes </p> 
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)  [![HitCount](https://hits.dwyl.com/hellzbellz123/hellzbellz123.svg?style=flat-square)](http://hits.dwyl.com/hellzbellz123/hellzbellz123) 
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Hellzbellz123,%20I%20Make%20Some%20Stuff%20Sometimes&height=100&width=1000)](https://github.com/Akshay090/svg-banners)
+
 
 <br />
 
@@ -9,6 +12,7 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 - 💬 Ask me about anything [here](https://github.com/Hellzbellz123/Hellzbellz123/issues)
 
+- 📄 I have a <a href="https://hellzbellz123.github.io/">website</a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellzbellz123&theme=tokyonight&no-bg=true&no-frame=true)
 
