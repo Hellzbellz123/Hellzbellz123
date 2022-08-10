@@ -10,7 +10,7 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 - 💬 Ask me about anything [here](https://github.com/Hellzbellz123/Hellzbellz123/issues)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hellzbellz123&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=hellzbellz123&theme=tokyonight&no-bg=true&no-frame=true)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
