@@ -12,7 +12,7 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 - 💬 Ask me about anything [here](https://github.com/Hellzbellz123/Hellzbellz123/issues)
 
-- 📄 I have a <a href="https://hellzbellz123.github.io/">website</a>
+- 📄 I have a <a href="https://hellzbellz123.github.io/">website</a> thats blank 🤣
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hellzbellz123&theme=tokyonight&no-bg=true&no-frame=true)
 
