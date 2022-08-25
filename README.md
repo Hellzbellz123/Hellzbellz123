@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9996](https://github.com/microsoft/terminal/issues/9996) in [microsoft/terminal](https://github.com/microsoft/terminal)
-2. 🗣 Commented on [#136](https://github.com/StarArawn/kayak_ui/issues/136) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-3. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
-4. 🗣 Commented on [#1110](https://github.com/bevyengine/bevy/issues/1110) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-5. 🗣 Commented on [#5040](https://github.com/bevyengine/bevy/issues/5040) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+1. 💪 Opened PR [#27](https://github.com/BlackPhlox/bevy_config_cam/pull/27) in [BlackPhlox/bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam)
+2. 🗣 Commented on [#9996](https://github.com/microsoft/terminal/issues/9996) in [microsoft/terminal](https://github.com/microsoft/terminal)
+3. 🗣 Commented on [#136](https://github.com/StarArawn/kayak_ui/issues/136) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+4. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
+5. 🗣 Commented on [#1110](https://github.com/bevyengine/bevy/issues/1110) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
 <!--END_SECTION:activity-->
 
