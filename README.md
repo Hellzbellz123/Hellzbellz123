@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#400](https://github.com/RustCrypto/hashes/issues/400) in [RustCrypto/hashes](https://github.com/RustCrypto/hashes)
-2. 💪 Opened PR [#27](https://github.com/BlackPhlox/bevy_config_cam/pull/27) in [BlackPhlox/bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam)
-3. 🗣 Commented on [#9996](https://github.com/microsoft/terminal/issues/9996) in [microsoft/terminal](https://github.com/microsoft/terminal)
-4. 🗣 Commented on [#136](https://github.com/StarArawn/kayak_ui/issues/136) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-5. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
+1. 🎉 Merged PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+2. 💪 Opened PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+3. 🗣 Commented on [#400](https://github.com/RustCrypto/hashes/issues/400) in [RustCrypto/hashes](https://github.com/RustCrypto/hashes)
+4. 💪 Opened PR [#27](https://github.com/BlackPhlox/bevy_config_cam/pull/27) in [BlackPhlox/bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam)
+5. 🗣 Commented on [#9996](https://github.com/microsoft/terminal/issues/9996) in [microsoft/terminal](https://github.com/microsoft/terminal)
 <!--END_SECTION:activity-->
 
