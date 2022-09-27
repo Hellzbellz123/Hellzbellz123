@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-2. 💪 Opened PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-3. 🗣 Commented on [#400](https://github.com/RustCrypto/hashes/issues/400) in [RustCrypto/hashes](https://github.com/RustCrypto/hashes)
-4. 💪 Opened PR [#27](https://github.com/BlackPhlox/bevy_config_cam/pull/27) in [BlackPhlox/bevy_config_cam](https://github.com/BlackPhlox/bevy_config_cam)
-5. 🗣 Commented on [#9996](https://github.com/microsoft/terminal/issues/9996) in [microsoft/terminal](https://github.com/microsoft/terminal)
+1. ❗️ Opened issue [#48](https://github.com/harudagondi/bevy_oddio/issues/48) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
+2. 🗣 Commented on [#7](https://github.com/harudagondi/bevy_oddio/issues/7) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
+3. 🎉 Merged PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+4. 💪 Opened PR [#1](https://github.com/Hellzbellz123/VanillaCoffee/pull/1) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+5. 🗣 Commented on [#400](https://github.com/RustCrypto/hashes/issues/400) in [RustCrypto/hashes](https://github.com/RustCrypto/hashes)
 <!--END_SECTION:activity-->
 
