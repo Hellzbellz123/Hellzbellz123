@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#316](https://github.com/jcornaz/heron/issues/316) in [jcornaz/heron](https://github.com/jcornaz/heron)
-2. ❗️ Opened issue [#316](https://github.com/jcornaz/heron/issues/316) in [jcornaz/heron](https://github.com/jcornaz/heron)
-3. 🗣 Commented on [#71](https://github.com/jcornaz/heron/issues/71) in [jcornaz/heron](https://github.com/jcornaz/heron)
-4. ❗️ Opened issue [#48](https://github.com/harudagondi/bevy_oddio/issues/48) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
-5. 🗣 Commented on [#7](https://github.com/harudagondi/bevy_oddio/issues/7) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
+1. 🗣 Commented on [#48](https://github.com/harudagondi/bevy_oddio/issues/48) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
+2. 🗣 Commented on [#316](https://github.com/jcornaz/heron/issues/316) in [jcornaz/heron](https://github.com/jcornaz/heron)
+3. ❗️ Opened issue [#316](https://github.com/jcornaz/heron/issues/316) in [jcornaz/heron](https://github.com/jcornaz/heron)
+4. 🗣 Commented on [#71](https://github.com/jcornaz/heron/issues/71) in [jcornaz/heron](https://github.com/jcornaz/heron)
+5. ❗️ Opened issue [#48](https://github.com/harudagondi/bevy_oddio/issues/48) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
 <!--END_SECTION:activity-->
 
