@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-2. 💪 Opened PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-3. 🎉 Merged PR [#2](https://github.com/Hellzbellz123/VanillaCoffee/pull/2) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-4. 💪 Opened PR [#2](https://github.com/Hellzbellz123/VanillaCoffee/pull/2) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-5. 🗣 Commented on [#48](https://github.com/harudagondi/bevy_oddio/issues/48) in [harudagondi/bevy_oddio](https://github.com/harudagondi/bevy_oddio)
+1. ❗️ Opened issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+2. 🎉 Merged PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+3. 💪 Opened PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+4. 🎉 Merged PR [#2](https://github.com/Hellzbellz123/VanillaCoffee/pull/2) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+5. 💪 Opened PR [#2](https://github.com/Hellzbellz123/VanillaCoffee/pull/2) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
 <!--END_SECTION:activity-->
 
