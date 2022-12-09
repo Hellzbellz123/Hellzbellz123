@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-2. ❗️ Opened issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-3. 🎉 Merged PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-4. 💪 Opened PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
-5. 🎉 Merged PR [#2](https://github.com/Hellzbellz123/VanillaCoffee/pull/2) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+1. ❗️ Opened issue [#1](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate/issues/1) in [EduardoRodriguesF/bevy-wsl-boilerplate](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate)
+2. 🗣 Commented on [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+3. ❗️ Opened issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+4. 🎉 Merged PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
+5. 💪 Opened PR [#3](https://github.com/Hellzbellz123/VanillaCoffee/pull/3) in [Hellzbellz123/VanillaCoffee](https://github.com/Hellzbellz123/VanillaCoffee)
 <!--END_SECTION:activity-->
 
