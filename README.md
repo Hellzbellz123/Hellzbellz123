@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7295](https://github.com/bevyengine/bevy/issues/7295) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-2. ❗️ Opened issue [#34](https://github.com/JoJoJet/bevy-mouse-tracking/issues/34) in [JoJoJet/bevy-mouse-tracking](https://github.com/JoJoJet/bevy-mouse-tracking)
-3. 🗣 Commented on [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-4. ❗️ Opened issue [#1](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate/issues/1) in [EduardoRodriguesF/bevy-wsl-boilerplate](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate)
-5. 🗣 Commented on [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+1. ❗️ Closed issue [#98849](https://github.com/rust-lang/rust/issues/98849) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#7295](https://github.com/bevyengine/bevy/issues/7295) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+3. ❗️ Opened issue [#34](https://github.com/JoJoJet/bevy-mouse-tracking/issues/34) in [JoJoJet/bevy-mouse-tracking](https://github.com/JoJoJet/bevy-mouse-tracking)
+4. 🗣 Commented on [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+5. ❗️ Opened issue [#1](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate/issues/1) in [EduardoRodriguesF/bevy-wsl-boilerplate](https://github.com/EduardoRodriguesF/bevy-wsl-boilerplate)
 <!--END_SECTION:activity-->
 
