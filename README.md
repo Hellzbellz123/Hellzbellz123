@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1249](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1249) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
-2. 🗣 Commented on [#7318](https://github.com/bevyengine/bevy/issues/7318) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-3. ❗️ Closed issue [#98849](https://github.com/rust-lang/rust/issues/98849) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#7295](https://github.com/bevyengine/bevy/issues/7295) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-5. ❗️ Opened issue [#34](https://github.com/JoJoJet/bevy-mouse-tracking/issues/34) in [JoJoJet/bevy-mouse-tracking](https://github.com/JoJoJet/bevy-mouse-tracking)
+1. ❗️ Reopened issue [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+2. 🗣 Commented on [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+3. ❗️ Closed issue [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+4. ❗️ Opened issue [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+5. 🗣 Commented on [#1249](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1249) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
 <!--END_SECTION:activity-->
 
