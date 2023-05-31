@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
+1. 🔒 Closed issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
 2. 🗣 Commented on [#100](https://github.com/Trouv/bevy_ecs_ldtk/issues/100) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-3. ❗️ Opened issue [#2091](https://github.com/Alexays/Waybar/issues/2091) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+3. ❗ Opened issue [#2091](https://github.com/Alexays/Waybar/issues/2091) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
 4. 🗣 Commented on [#450](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/450) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
-5. ❗️ Reopened issue [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
+5. 🔒 Reopened issue [#1361](https://github.com/bjorn3/rustc_codegen_cranelift/issues/1361) in [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift)
 <!--END_SECTION:activity-->
 
