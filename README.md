@@ -51,9 +51,9 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#200](https://github.com/Trouv/bevy_ecs_ldtk/issues/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-2. 💪 Opened PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-3. 🗣 Commented on [#8882](https://github.com/bevyengine/bevy/issues/8882) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
-4. 🔒 Closed issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
-5. 🗣 Commented on [#100](https://github.com/Trouv/bevy_ecs_ldtk/issues/100) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+2. 🗣 Commented on [#200](https://github.com/Trouv/bevy_ecs_ldtk/issues/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+3. 💪 Opened PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+4. 🗣 Commented on [#8882](https://github.com/bevyengine/bevy/issues/8882) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+5. 🔒 Closed issue [#189](https://github.com/StarArawn/kayak_ui/issues/189) in [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui)
 <!--END_SECTION:activity-->
 
