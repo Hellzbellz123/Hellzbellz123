@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-2. 🗣 Commented on [#200](https://github.com/Trouv/bevy_ecs_ldtk/issues/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+1. 💪 Opened PR [#201](https://github.com/Trouv/bevy_ecs_ldtk/pull/201) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+2. ❌ Closed PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
 3. 🗣 Commented on [#200](https://github.com/Trouv/bevy_ecs_ldtk/issues/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-4. 💪 Opened PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-5. 🗣 Commented on [#8882](https://github.com/bevyengine/bevy/issues/8882) in [bevyengine/bevy](https://github.com/bevyengine/bevy)
+4. 🗣 Commented on [#200](https://github.com/Trouv/bevy_ecs_ldtk/issues/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+5. 💪 Opened PR [#200](https://github.com/Trouv/bevy_ecs_ldtk/pull/200) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
 <!--END_SECTION:activity-->
 
