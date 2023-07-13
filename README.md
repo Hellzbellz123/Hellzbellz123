@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319#issuecomment-1633216162) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 2. ❗ Opened issue [#2692](https://github.com/hyprwm/Hyprland/issues/2692) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-3. 🗣 Commented on [#1754](https://github.com/sddm/sddm/issues/1754) in [sddm/sddm](https://github.com/sddm/sddm)
-4. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. 🗣 Commented on [#1754](https://github.com/sddm/sddm/issues/1754#issuecomment-1632028684) in [sddm/sddm](https://github.com/sddm/sddm)
+4. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319#issuecomment-1631665533) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 5. 💪 Opened PR [#201](https://github.com/Trouv/bevy_ecs_ldtk/pull/201) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
 <!--END_SECTION:activity-->
 
