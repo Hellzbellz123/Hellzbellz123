@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1947](https://github.com/ricksouth/serilum-mc-mods/issues/1947) in [ricksouth/serilum-mc-mods](https://github.com/ricksouth/serilum-mc-mods)
-2. 🗣 Commented on [#201](https://github.com/Trouv/bevy_ecs_ldtk/pull/201#issuecomment-1636887247) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
-3. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319#issuecomment-1633216162) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. ❗ Opened issue [#2692](https://github.com/hyprwm/Hyprland/issues/2692) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. 🗣 Commented on [#1754](https://github.com/sddm/sddm/issues/1754#issuecomment-1632028684) in [sddm/sddm](https://github.com/sddm/sddm)
+1. ❗ Opened issue [#12719](https://github.com/rust-lang/cargo/issues/12719) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+2. ❗ Opened issue [#1947](https://github.com/ricksouth/serilum-mc-mods/issues/1947) in [ricksouth/serilum-mc-mods](https://github.com/ricksouth/serilum-mc-mods)
+3. 🗣 Commented on [#201](https://github.com/Trouv/bevy_ecs_ldtk/pull/201#issuecomment-1636887247) in [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)
+4. 🗣 Commented on [#2319](https://github.com/hyprwm/Hyprland/issues/2319#issuecomment-1633216162) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. ❗ Opened issue [#2692](https://github.com/hyprwm/Hyprland/issues/2692) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 
