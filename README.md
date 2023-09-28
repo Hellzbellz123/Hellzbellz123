@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733345184) in [jkb0o/belly](https://github.com/jkb0o/belly)
-2. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733343259) in [jkb0o/belly](https://github.com/jkb0o/belly)
-3. ❗ Opened issue [#123](https://github.com/albertlauncher/plugins/issues/123) in [albertlauncher/plugins](https://github.com/albertlauncher/plugins)
-4. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1732398898) in [jkb0o/belly](https://github.com/jkb0o/belly)
-5. ❗ Opened issue [#76](https://github.com/jkb0o/belly/issues/76) in [jkb0o/belly](https://github.com/jkb0o/belly)
+1. 🗣 Commented on [#7064](https://github.com/ValveSoftware/Proton/issues/7064#issuecomment-1739996536) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+2. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733345184) in [jkb0o/belly](https://github.com/jkb0o/belly)
+3. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733343259) in [jkb0o/belly](https://github.com/jkb0o/belly)
+4. ❗ Opened issue [#123](https://github.com/albertlauncher/plugins/issues/123) in [albertlauncher/plugins](https://github.com/albertlauncher/plugins)
+5. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1732398898) in [jkb0o/belly](https://github.com/jkb0o/belly)
 <!--END_SECTION:activity-->
 
