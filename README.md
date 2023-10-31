@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/dirs-dev/directories-rs/issues/83#issuecomment-1786178990) in [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs)
-2. 🗣 Commented on [#7064](https://github.com/ValveSoftware/Proton/issues/7064#issuecomment-1739996536) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-3. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733345184) in [jkb0o/belly](https://github.com/jkb0o/belly)
-4. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733343259) in [jkb0o/belly](https://github.com/jkb0o/belly)
-5. ❗ Opened issue [#123](https://github.com/albertlauncher/plugins/issues/123) in [albertlauncher/plugins](https://github.com/albertlauncher/plugins)
+1. ❗ Opened issue [#47](https://github.com/carlocardella/vscode-TextToolbox/issues/47) in [carlocardella/vscode-TextToolbox](https://github.com/carlocardella/vscode-TextToolbox)
+2. 🗣 Commented on [#83](https://github.com/dirs-dev/directories-rs/issues/83#issuecomment-1786178990) in [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs)
+3. 🗣 Commented on [#7064](https://github.com/ValveSoftware/Proton/issues/7064#issuecomment-1739996536) in [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+4. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733345184) in [jkb0o/belly](https://github.com/jkb0o/belly)
+5. 🗣 Commented on [#76](https://github.com/jkb0o/belly/issues/76#issuecomment-1733343259) in [jkb0o/belly](https://github.com/jkb0o/belly)
 <!--END_SECTION:activity-->
 
