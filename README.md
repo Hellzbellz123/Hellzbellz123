@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/mvlabat/bevy_egui/pull/220#issuecomment-1794069656) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
-2. 🗣 Commented on [#558](https://github.com/FyroxEngine/Fyrox/issues/558#issuecomment-1789398408) in [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
-3. ❗ Opened issue [#558](https://github.com/FyroxEngine/Fyrox/issues/558) in [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
-4. ❗ Opened issue [#47](https://github.com/carlocardella/vscode-TextToolbox/issues/47) in [carlocardella/vscode-TextToolbox](https://github.com/carlocardella/vscode-TextToolbox)
-5. 🗣 Commented on [#83](https://github.com/dirs-dev/directories-rs/issues/83#issuecomment-1786178990) in [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs)
+1. ❗ Opened issue [#2](https://github.com/johanhelsing/bevy_touch_stick/issues/2) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+2. 🗣 Commented on [#220](https://github.com/mvlabat/bevy_egui/pull/220#issuecomment-1794069656) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
+3. 🗣 Commented on [#558](https://github.com/FyroxEngine/Fyrox/issues/558#issuecomment-1789398408) in [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
+4. ❗ Opened issue [#558](https://github.com/FyroxEngine/Fyrox/issues/558) in [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
+5. ❗ Opened issue [#47](https://github.com/carlocardella/vscode-TextToolbox/issues/47) in [carlocardella/vscode-TextToolbox](https://github.com/carlocardella/vscode-TextToolbox)
 <!--END_SECTION:activity-->
 
