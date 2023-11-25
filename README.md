@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/johanhelsing/bevy_touch_stick/pull/10#issuecomment-1826171015) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
-2. 🗣 Commented on [#9](https://github.com/johanhelsing/bevy_touch_stick/pull/9#issuecomment-1826093885) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
-3. 🗣 Commented on [#10](https://github.com/johanhelsing/bevy_touch_stick/pull/10#issuecomment-1826066866) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
-4. 🗣 Commented on [#9](https://github.com/johanhelsing/bevy_touch_stick/pull/9#issuecomment-1825233042) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
-5. 💪 Opened PR [#9](https://github.com/johanhelsing/bevy_touch_stick/pull/9) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+1. 🗣 Commented on [#8](https://github.com/johanhelsing/bevy_touch_stick/pull/8#issuecomment-1826178751) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+2. ❌ Closed PR [#8](https://github.com/johanhelsing/bevy_touch_stick/pull/8) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+3. 🗣 Commented on [#2](https://github.com/johanhelsing/bevy_touch_stick/issues/2#issuecomment-1826178533) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+4. 🔒 Closed issue [#2](https://github.com/johanhelsing/bevy_touch_stick/issues/2) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+5. 🗣 Commented on [#9](https://github.com/johanhelsing/bevy_touch_stick/pull/9#issuecomment-1826178156) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
 <!--END_SECTION:activity-->
 
