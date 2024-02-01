@@ -50,10 +50,10 @@ I'm a self-taught "programmer" that hacks stuff together when hes not doing othe
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2870](https://github.com/Alexays/Waybar/issues/2870#issuecomment-1918382292) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-2. 💪 Opened PR [#241](https://github.com/mvlabat/bevy_egui/pull/241) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
-3. ❗ Opened issue [#2693](https://github.com/Alexays/Waybar/issues/2693) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-4. 🗣 Commented on [#8](https://github.com/johanhelsing/bevy_touch_stick/pull/8#issuecomment-1826178751) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
-5. ❌ Closed PR [#8](https://github.com/johanhelsing/bevy_touch_stick/pull/8) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
+1. 🗣 Commented on [#457](https://github.com/Leafwing-Studios/leafwing-input-manager/pull/457#issuecomment-1920248140) in [Leafwing-Studios/leafwing-input-manager](https://github.com/Leafwing-Studios/leafwing-input-manager)
+2. 🗣 Commented on [#2870](https://github.com/Alexays/Waybar/issues/2870#issuecomment-1918382292) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+3. 💪 Opened PR [#241](https://github.com/mvlabat/bevy_egui/pull/241) in [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui)
+4. ❗ Opened issue [#2693](https://github.com/Alexays/Waybar/issues/2693) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+5. 🗣 Commented on [#8](https://github.com/johanhelsing/bevy_touch_stick/pull/8#issuecomment-1826178751) in [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick)
 <!--END_SECTION:activity-->
 
